@@ -38,14 +38,18 @@ I am a passionate Frontend Developer focused on creating interactive and visuall
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=7bdallah&show_icons=true&theme=vision-glow" alt="Abdullah's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=7bdallah&show_icons=true&theme=vision-glow&hide_border=true" alt="Abdullah's GitHub Stats" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7bdallah&layout=compact&theme=vision-glow" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7bdallah&layout=compact&theme=vision-glow&hide_border=true" alt="Top Languages" />
 </p>
+
+---
 
 ---
 
