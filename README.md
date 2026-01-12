@@ -1,3 +1,4 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=7bdallah&label=PROFILE%20VIEWS&countColor=%23263238&labelStyle=flat-square)
 # Hi there, I'm Abdullah Mohamed 👋
 
 ### 🚀 Frontend Developer | Transitioning to Full-Stack (PHP & Java)
