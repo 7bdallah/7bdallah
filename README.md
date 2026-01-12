@@ -49,9 +49,9 @@ I am a passionate Frontend Developer focused on creating interactive and visuall
 
 ---
 
-### 📫 Connect with me:
-* **WhatsApp:** [01061540264](https://wa.me/201061540264)
-* **LinkedIn:** [Abdullah Mohamed](https://www.linkedin.com/in/7bdallah) *(تأكد من تعديل الرابط إذا كان مختلفاً)*
+### 📫 Let's Connect:
+* **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201061540264)
+* **Current Focus:** Master PHP & Build Robust Backends.
 
 ---
 
